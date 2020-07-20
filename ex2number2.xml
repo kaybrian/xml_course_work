@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE hotel SYSTEM 'hotel.dtd' >
+
+<hotels>
+<hotel>
+        <id>1</id>
+        <name>Golden Tulip Little Palace</name>
+        <star>4</star>
+        <Facilities>
+                Internet,
+                Gym,
+                Parking,
+                Restaurant
+        </Facilities>
+        <Address>74 rue Amelot, Paris, 75011</Address>
+        <Distance>2</Distance>
+        <Available>True</Available>
+    </hotel>
+     <hotel>
+        <id>2</id>
+        <name> 	Les Jardins du Marais</name>
+        <star>3</star>
+        <Facilities>Internet</Facilities>
+        <Address>4 rue Salomon De Caus, Paris, 75003</Address>
+        <Distance>0.1</Distance>
+        <Available> 	False</Available>
+    </hotel>
+    <hotel>
+        <id>3</id>
+        <name> 	Tilsitt Etoile</name>
+        <star>2</star>
+        <Facilities>Restaurant</Facilities>
+        <Address> 23 rue Brey, Paris, 75017 </Address>
+        <Distance>3</Distance>
+        <Available> False</Available>
+    </hotel>
+    <hotel>
+        <id>4</id>
+        <name> Hotel Saint Charles</name>
+        <star>3</star>
+        <Facilities>Parking </Facilities>
+        <Address>6 rue de I’Esperance, Paris, 75013 </Address>
+        <Distance>1</Distance>
+        <Available>True</Available>
+    </hotel>
+</hotels>

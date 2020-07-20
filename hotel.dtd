@@ -1,0 +1,8 @@
+<!ELEMENT hotel (id,name,star,Facilities,Address,Distance,Available)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT star (#PCDATA)>
+<!ELEMENT Facilities (#PCDATA)>
+<!ELEMENT Address (#PCDATA)>
+<!ELEMENT Distance (#PCDATA)>
+<!ELEMENT Available (#PCDATA)>
